@@ -1,0 +1,7 @@
+torch
+torchvision
+deepface
+opencv-python
+numpy
+pillow
+scikit-learn
